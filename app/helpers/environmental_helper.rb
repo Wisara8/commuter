@@ -1,0 +1,2 @@
+module EnvironmentalHelper
+end
